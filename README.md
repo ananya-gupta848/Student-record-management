@@ -25,4 +25,5 @@ IDE/Editor: Visual Studio Code
 Version Control: Git & GitHub
 
 OUTPUT IMAGES-
-![img alt]()
+
+![img alt](https://github.com/ananya-gupta848/Student-record-management/blob/main/Screenshot%202026-06-12%20222255.png?raw=true)
