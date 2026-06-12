@@ -11,3 +11,18 @@ Project Scope-"Student Record Management system designed to store, update, and r
 
 DOCUMENTATION:-
 
+Features-
+
+Add Student – Enter student details (ID, name, age, course).
+Display Records – View all stored student information.
+Search Student – Find a student by their unique ID.
+Update Records – Modify existing student details.
+Menu-driven interface – Simple and interactive console-based navigation.
+
+🛠️ Tech Stack
+Language: C++
+IDE/Editor: Visual Studio Code 
+Version Control: Git & GitHub
+
+OUTPUT IMAGES-
+![img alt]()
