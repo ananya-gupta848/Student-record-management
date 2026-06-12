@@ -30,3 +30,4 @@ OUTPUT IMAGES-
 ![img alt](https://github.com/ananya-gupta848/Student-record-management/blob/main/Screenshot%202026-06-12%20222317.png?raw=true)
 ![img alt](https://github.com/ananya-gupta848/Student-record-management/blob/main/Screenshot%202026-06-12%20222331.png?raw=true)
 ![img alt](https://github.com/ananya-gupta848/Student-record-management/blob/main/Screenshot%202026-06-12%20222425.png?raw=true)
+![img alt](https://github.com/ananya-gupta848/Student-record-management/blob/main/Screenshot%202026-06-12%20222438.png?raw=true)
